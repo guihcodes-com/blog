@@ -6,6 +6,8 @@
   "files.associations": {
     "*.html": "liquid"
   },
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.fontLigatures": true,
   "[markdown]": {
     "editor.defaultFormatter": "yzhang.markdown-all-in-one"
   },
